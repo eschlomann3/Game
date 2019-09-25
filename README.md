@@ -1,9 +1,5 @@
 # Game
-<html>
 <head> 
-    <link href = ""https://bootswatch.com/4/darkly/bootstrap.min.css") rel = "stylesheet"
-    type = "text/css">
-
 <body>
 
 <h1>Guess The Number</h1> 
@@ -42,4 +38,4 @@
 } 
 </script>
 </body> 
-</html> 
+ 
