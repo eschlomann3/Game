@@ -1,9 +1,14 @@
+
 <!DOCTYPE html> 
-<html> 
+<html>
 <head> 
+    <link href = ""https://bootswatch.com/4/darkly/bootstrap.min.css") rel = "stylesheet"
+    type = "text/css">
+
 <body> 
 <script src="new.js">
 </script>
+
 <h1>Guess The Number</h1> 
   
 <p> Can you guess the number between 1-100? Play to see how many guesses you get!</p> 
@@ -24,20 +29,20 @@
   
    if(x == y) 
    {    
-       alert("CONGRATULATIONS!!! YOU GUESSED IT RIGHT IN "
-               + guess + " GUESS "); 
+       alert("CONGRATULATIONS!!! You guessed it in "
+               + guess + " guesses! "); 
    } 
    else if(x > y) 
    {     
        guess++; 
-       alert("OOPS SORRY!! TRY A SMALLER NUMBER"); 
+       alert("Try a lower number!"); 
    } 
    else
    { 
        guess++; 
-       alert("OOPS SORRY!! TRY A GREATER NUMBER") 
+       alert("Try a higher number!") 
    } 
 } 
-</script> 
+</script>
 </body> 
 </html> 
