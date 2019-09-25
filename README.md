@@ -1,5 +1,6 @@
 <head> 
 <body>
+theme:minima
 
 <h1>Guess The Number</h1> 
   
