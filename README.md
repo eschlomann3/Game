@@ -1,7 +1,6 @@
 <head> 
 <body>
-theme:minima
-
+  
 <h1>Guess The Number</h1> 
   
 <p> Can you guess the number between 1-100? Play to see how many guesses you get!</p> 
