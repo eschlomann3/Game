@@ -1,5 +1,4 @@
 # Game
-<!DOCTYPE html> 
 <html>
 <head> 
     <link href = ""https://bootswatch.com/4/darkly/bootstrap.min.css") rel = "stylesheet"
